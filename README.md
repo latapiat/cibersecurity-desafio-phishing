@@ -1,6 +1,6 @@
-# Phishing para captura de senhas do Facebook
+# Phishing - Captura de Senhas do Facebook
 
-### Ferramentas
+### Ferramentas utilizadas
 
 - Kali Linux
 - setoolkit
@@ -18,4 +18,8 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![image](https://github.com/user-attachments/assets/095dae8c-b9e4-4540-9b22-bbb1c47d9768)
+
+![image](https://github.com/user-attachments/assets/4ed8240a-9899-4097-b231-4f92cb9370ff)
+
+ 
